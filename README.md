@@ -1,0 +1,4 @@
+gitlib
+======
+
+provisional git library
